@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuvshu03/leet-code-problems.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuvshu03/leet-code-problems/issues"
+  },
+  "homepage": "https://github.com/Tuvshu03/leet-code-problems#readme"
+}
